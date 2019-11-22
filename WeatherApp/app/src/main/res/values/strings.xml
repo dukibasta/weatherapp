@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="api_url">https://openweathermap.org/</string>
+    <string name="api_key">b6907d289e10d714a6e88b30761fae22</string>
+
+    <string name="icons_url">%s/img/wn/%s@2x.png</string>
+    <string name="temperature_format">%s\u2103</string>
+    <string name="empty_string_preview">/</string>
+
+    <string name="spleshscreen_weather_app">Weather App</string>
+
+    <string name="http__utilities_no_internet_connection">No Internet Connection</string>
+    <string name="http_utilities_error_occurred">Error Occurred</string>
+
+    <string name="main_activity_search_by_city_name">Search by city name</string>
+    <string name="activity_main_xml_hourly_forecast">Hourly forecast</string>
+    <string name="activity_main_xml_no_city_found">No City Found</string>
+    <string name="dialog_progress_bar_xml_loading">Loading...</string>
+    <string name="activity_main_xml_daily_forecast">Daily forecast</string>
+    <string name="splesh_screen_activity_allow_weatherapp_to_access_this_device_location">Allow WeatherApp to acess this device\'s location?</string>
+    <string name="splesh_screen_activity_allow">ALLOW</string>
+    <string name="splesh_screen_activity_deny">DENY</string>
+    <string name="view_no_internet_connection_xml_refresh">Refresh</string>
+    <string name="activity_main_xml_hourly_forecast_not_found">Hourly forecast not found</string>
+    <string name="activity_main_xml_daily_forecast_not_found">Daily forecast not found</string>
+
+</resources>
